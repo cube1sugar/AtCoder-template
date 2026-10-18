@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+//https://github.com/cube1sugar/AtCoder-template
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
