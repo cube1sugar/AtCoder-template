@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+const long INF = 1LL << 60;
 //https://github.com/cube1sugar/AtCoder-template
 //以上
 //auto lb = lower_bound(row.begin(), row.end(), u);
